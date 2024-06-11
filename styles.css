@@ -1,0 +1,23 @@
+.icon-container {
+    display: none;
+    position: absolute;
+    z-index: 1000;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-container a {
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.icon-container img {
+    width: 20px;
+    height: 20px;
+}
