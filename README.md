@@ -18,7 +18,6 @@
 
 ## Features
 
-- User authentication and management
 - Customizable user interface
 - Role-based access control
 - Background scripts for automated tasks
